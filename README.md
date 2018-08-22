@@ -1,3 +1,5 @@
+# This repository has been archived.
+
 rabbitmq Cookbook
 =================
 This is a cookbook for managing RabbitMQ with Chef. It is intended for 2.6.1 or later releases.
